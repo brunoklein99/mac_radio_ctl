@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Label</key>
+		<string>com.wifi.off</string>
+		<key>Program</key>
+		<string>/Users/bruklein/wifi-ctl/off.sh</string>
+		<key>RunAtLoad</key>
+		<true/>
+		<key>KeepAlive</key>
+		<true/>
+		<key>StandardErrorPath</key>
+		<string>/Users/bruklein/wifi-ctl/launch_ctl_err</string>
+		<key>StandardOutPath</key>
+		<string>/Users/bruklein/wifi-ctl/launch_ctl_out</string>
+	</dict>
+</plist>
